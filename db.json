@@ -141,5 +141,77 @@
             "price": 46.12,
             "raiting": "4.8 out of 5"
         }
+    ],
+    "home": [
+        {
+            "id": 11,
+            "name": "Xiaomi alarm clock ",
+            "image": "https://ae01.alicdn.com/kf/H71d798c4208641908240a053e4cd123ei/Xiaomi-Cleargrass-Bluetooth-Alarm-Clock-Temperature-Humidity-Display-LCD-Screen-Adjustable-Nightlight-With-Mijia-APP-Smart.jpg_Q90.jpg_.webp",
+            "price": 13.56,
+            "raiting": "4.8 out of 5"
+        },
+        {
+            "id": 12,
+            "name": "Electric kettle",
+            "image": "https://ae01.alicdn.com/kf/HTB15znzhvNNTKJjSspcq6z4KVXa4/2020-New-XIAOMI-MIJIA-Electric-kettle-fast-boiling-stainless-teapot-samovar-kitchen-Water-Kettle-Mi-home.jpg_Q90.jpg_.webp",
+            "price": 12.36,
+            "raiting": "3.9 out of 5"
+        },
+        {
+            "id": 13,
+            "name": "Digital Scales",
+            "image": "https://ae01.alicdn.com/kf/Hcf568bd9593f465885ea10ca23b3bff5f/200g-Precision-Digital-Scales-for-Gold-Jewelry-0-01-Weight-Electronic-Scale-Mini-Electronic-Scales-for.jpg_Q90.jpg_.webp",
+            "price": 4.42,
+            "raiting": "3.5 out of 5"
+        },
+        {
+            "id": 14,
+            "name": "Electric steam iron",
+            "image": "https://ae01.alicdn.com/kf/Hcc04671a5ec44da79bca5ac4d56388a9K/2400W-Cordless-Electric-Steam-Iron-Portable-Ironing-Machine-Garment-Flatiron-Non-stick-Soleplate-Multifunction-Adjustable.jpg_Q90.jpg_.webp",
+            "price": 34.41,
+            "raiting": "4.2 out of 5"
+        },
+        {
+            "id": 15,
+            "name": "A vacuum cleaner",
+            "image": "https://ae01.alicdn.com/kf/H8ab058252cdf45a1a01bdd23541cb209W/TOMULE-Handheld-Car-Vacuum-Cleaner-Portable-Powerful-Auto-Vacuum-Cleaner-LED-lighting-for-Car-Home-Wet.jpg_Q90.jpg_.webp",
+            "price": 11.23,
+            "raiting": "3.5 out of 5"
+        },
+        {
+            "id": 16,
+            "name": "Three-piece Shovel Rake Planting Tools ",
+            "image": "https://ae01.alicdn.com/kf/H1697425d9d5d48c287189a38e9c54839P/3PCs-Set-Three-piece-Shovel-Rake-Planting-Tools-Combination-Home-Gardening-Tool-Set-Balcony-Home-grown.jpg_Q90.jpg_.webp",
+            "price": 1.17,
+            "raiting": "4.9 out of 5"
+        },
+        {
+            "id": 17,
+            "name": "LED Panel Lamp",
+            "image": "https://ae01.alicdn.com/kf/H00c1a89480d049c98f0c67c6033d4004P/LED-Panel-Lamp-LED-Ceiling-Light-48W-36W-24W-18W-13W-9W-6W-Down-Light-Surface.jpg_Q90.jpg_.webp",
+            "price": 22.30,
+            "raiting": "4.0 out of 5"
+        },
+        {
+            "id": 18,
+            "name": "Cordless Drill Electric Screwdriver",
+            "image": "https://ae01.alicdn.com/kf/H8ea7e81c7cd54a72aa3f4c502f158c47R/WOSAI-12V-16V-20V-Cordless-Drill-Electric-Screwdriver-Mini-Wireless-Power-Driver-DC-Lithium-Ion-Battery.jpg_Q90.jpg_.webp",
+            "price": 51.63,
+            "raiting": "5.0 out of 5"
+        },
+        {
+            "id": 19,
+            "name": "Working mat",
+            "image": "https://ae01.alicdn.com/kf/HTB1XRX8rTtYBeNjy1Xdq6xXyVXaq/ESD-Heat-Insulation-Working-mat-Soldering-Station-Iron-Phone-Computer-Repair-Mat-Magnetic-Heat-resistant-BGA.jpg_Q90.jpg_.webp",
+            "price": 20.90,
+            "raiting": "3.0 out of 5"
+        },
+        {
+            "id": 20,
+            "name": "Basin mixer",
+            "image": "https://ae01.alicdn.com/kf/HTB1zWmLL3HqK1RjSZFgq6y7JXXa8/Quyanre-LED-Blackend-Waterfall-Basin-Faucet-LED-Light-Bathroom-Mixer-Tap-Sink-Faucet-Single-Handle-Mixer.jpg_Q90.jpg_.webp",
+            "price": 59.58,
+            "raiting": "3.9 out of 5"
+        }
     ]
 }
